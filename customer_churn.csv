@@ -1,0 +1,31 @@
+CustomerID,Age,Gender,TenureMonths,SubscriptionType,MonthlyCharges,TotalCharges,SupportTickets,LoginFrequency,AvgSessionTime,LastActivityDaysAgo,PaymentMethod,ContractType,Churn
+C001,22,Female,3,Basic,299,897,4,8,12,15,Credit Card,Monthly,Yes
+C002,35,Male,24,Premium,799,19176,1,28,45,2,UPI,Yearly,No
+C003,28,Female,12,Standard,499,5988,2,15,25,5,Debit Card,Quarterly,No
+C004,40,Male,2,Basic,299,598,5,5,8,20,Cash,Monthly,Yes
+C005,31,Female,18,Premium,799,14382,0,30,50,1,Credit Card,Yearly,No
+C006,26,Male,6,Standard,499,2994,3,10,18,10,UPI,Monthly,Yes
+C007,45,Female,36,Premium,799,28764,1,35,55,0,Debit Card,Yearly,No
+C008,29,Male,8,Basic,299,2392,4,7,14,18,Cash,Monthly,Yes
+C009,33,Female,15,Standard,499,7485,2,20,30,4,Credit Card,Quarterly,No
+C010,27,Male,4,Basic,299,1196,5,6,10,22,UPI,Monthly,Yes
+C011,38,Female,30,Premium,799,23970,0,40,60,1,Debit Card,Yearly,No
+C012,24,Male,5,Standard,499,2495,3,9,16,12,Credit Card,Monthly,Yes
+C013,41,Female,20,Premium,799,15980,1,32,48,3,UPI,Yearly,No
+C014,30,Male,10,Basic,299,2990,4,11,20,14,Cash,Monthly,Yes
+C015,36,Female,25,Standard,499,12475,2,22,34,5,Debit Card,Quarterly,No
+C016,23,Male,1,Basic,299,299,6,3,5,30,Credit Card,Monthly,Yes
+C017,39,Female,28,Premium,799,22372,1,36,52,2,UPI,Yearly,No
+C018,32,Male,14,Standard,499,6986,2,18,28,6,Debit Card,Quarterly,No
+C019,27,Female,7,Basic,299,2093,5,8,13,17,Cash,Monthly,Yes
+C020,44,Male,40,Premium,799,31960,0,42,65,0,Credit Card,Yearly,No
+C021,25,Female,9,Standard,499,4491,3,12,21,9,UPI,Monthly,Yes
+C022,37,Male,22,Premium,799,17578,1,29,46,2,Debit Card,Yearly,No
+C023,29,Female,11,Basic,299,3289,4,10,17,13,Credit Card,Monthly,Yes
+C024,42,Male,32,Premium,799,25568,0,38,58,1,UPI,Yearly,No
+C025,34,Female,16,Standard,499,7984,2,19,31,4,Debit Card,Quarterly,No
+C026,26,Male,3,Basic,299,897,5,6,9,25,Cash,Monthly,Yes
+C027,43,Female,38,Premium,799,30362,1,41,62,0,Credit Card,Yearly,No
+C028,31,Male,13,Standard,499,6487,2,17,27,7,UPI,Quarterly,No
+C029,28,Female,6,Basic,299,1794,4,7,12,16,Debit Card,Monthly,Yes
+C030,46,Male,45,Premium,799,35955,0,44,68,0,Credit Card,Yearly,No
